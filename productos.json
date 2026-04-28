@@ -54,7 +54,19 @@
       ]
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "id": "moidss6kxowo",
+      "nombre": "Hola",
+      "descripcion": "",
+      "categoria": "tinto",
+      "subcategoria": "Merlot",
+      "varietal": "Js",
+      "precio": 6,
+      "caja": 7,
+      "img": ""
+    }
+  ],
   "settings": {
     "cbu": "0000003100024624264327",
     "alias": "ELBACO61"
