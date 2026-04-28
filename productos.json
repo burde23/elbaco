@@ -54,19 +54,7 @@
       ]
     }
   ],
-  "products": [
-    {
-      "id": "mohr0u7xrsts",
-      "nombre": "jhkjskjda",
-      "descripcion": "asdsad",
-      "categoria": "tinto",
-      "subcategoria": "Malbec",
-      "varietal": "asdd",
-      "precio": 11111,
-      "caja": 4,
-      "img": ""
-    }
-  ],
+  "products": [],
   "settings": {
     "cbu": "0000003100024624264327",
     "alias": "ELBACO61"
