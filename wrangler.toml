@@ -1,0 +1,7 @@
+name = "elbaco"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding       = "DB"
+database_name = "elbaco-orders"
+database_id   = "db427781-3930-4f18-9a32-04ff4f835bea"

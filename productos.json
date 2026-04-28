@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "id": "tinto",
+      "nombre": "Vinos Tintos",
+      "subcats": [
+        "Malbec",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Blend"
+      ]
+    },
+    {
+      "id": "blanco",
+      "nombre": "Vinos Blancos",
+      "subcats": [
+        "Chardonnay",
+        "Torrontés",
+        "Sauvignon Blanc"
+      ]
+    },
+    {
+      "id": "espumante",
+      "nombre": "Espumantes",
+      "subcats": [
+        "Extra Brut",
+        "Brut Nature",
+        "Demi-Sec"
+      ]
+    },
+    {
+      "id": "rose",
+      "nombre": "Rosé",
+      "subcats": []
+    },
+    {
+      "id": "dulce",
+      "nombre": "Dulces y Licores",
+      "subcats": [
+        "Cosecha Tardía",
+        "Oporto"
+      ]
+    },
+    {
+      "id": "accesorios",
+      "nombre": "Accesorios",
+      "subcats": [
+        "Copas",
+        "Decantadores",
+        "Sacacorchos",
+        "Sets y Kits",
+        "Almacenamiento",
+        "Otros"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "mohr0u7xrsts",
+      "nombre": "jhkjskjda",
+      "descripcion": "asdsad",
+      "categoria": "tinto",
+      "subcategoria": "Malbec",
+      "varietal": "asdd",
+      "precio": 11111,
+      "caja": 4,
+      "img": ""
+    }
+  ],
+  "settings": {
+    "cbu": "0000003100024624264327",
+    "alias": "ELBACO61"
+  },
+  "users": [
+    {
+      "user": "elbaco",
+      "pass": "elbaco61"
+    }
+  ]
+}
