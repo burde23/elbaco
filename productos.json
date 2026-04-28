@@ -54,19 +54,7 @@
       ]
     }
   ],
-  "products": [
-    {
-      "id": "moiby41lb1jm",
-      "nombre": "asxsadas",
-      "descripcion": "asdsdaasdsa",
-      "categoria": "tinto",
-      "subcategoria": "Cabernet Sauvignon",
-      "varietal": "asd2",
-      "precio": 2323233,
-      "caja": 3,
-      "img": "https://raw.githubusercontent.com/burde23/elbaco/main/misc/fotosproductos/asxsadas.png"
-    }
-  ],
+  "products": [],
   "settings": {
     "cbu": "0000003100024624264327",
     "alias": "ELBACO61"
