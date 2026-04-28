@@ -54,19 +54,7 @@
       ]
     }
   ],
-  "products": [
-    {
-      "id": "moickcytv3w0",
-      "nombre": "vino",
-      "descripcion": "",
-      "categoria": "tinto",
-      "subcategoria": "Cabernet Sauvignon",
-      "varietal": "asdas",
-      "precio": 2,
-      "caja": 4,
-      "img": "https://raw.githubusercontent.com/burde23/elbaco/main/misc/fotosproductos/vino.png"
-    }
-  ],
+  "products": [],
   "settings": {
     "cbu": "0000003100024624264327",
     "alias": "ELBACO61"
